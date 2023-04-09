@@ -2,7 +2,7 @@
 ![Logo](logo.png)
 
 ## Live Sites
-* [Editor Manual](https://InsideBlackGold.github.io/Documentation/Editor Manual/index.htm)
+* [Editor Manual]("https://InsideBlackGold.github.io/Documentation/Editor Manual/index.htm")
 
 ## Contributing
 
